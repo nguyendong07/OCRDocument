@@ -44,3 +44,7 @@ input:focus {
 button:focus {
   outline: 3px orange;
 }
+
+.ant-upload .ant-upload-select .ant-upload-select-text {
+  display: inherit !important;
+}
